@@ -7,7 +7,7 @@
 #############################################
 COMPUTE_MORSE_SETS := yes
 COMPUTE_CONTINUATION := yes
-COMPUTE_CONLEY_INDEX := yes
+COMPUTE_CONLEY_INDEX := no
 
 #############################################
 # advanced options                          #
