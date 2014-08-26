@@ -6,9 +6,10 @@
 #include <exception>
 #include <sstream>
 
-#include "BooleanSwitchingClasses.h"
-#include "LookUpTable.h"
-#include "Reflection.h"
+#include "dev/BooleanSwitchingClasses.h"
+#include "dev/LookUpTable.h"
+#include "dev/Reflection.h"
+#include "Phase/BooleanSwitchingMaps.h"
 
 //==============//
 // DECLARATIONS //
